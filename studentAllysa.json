@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "name": "Allysa Hope L. Mecarte",
+      "age": 21,
+      "quotes": "What was meant to be a beneficial reminder became a form of pressure"
+    }
+  ],
+  "studentinfo": [
+    {
+      "classsection": "Section A",
+      "sectioncode": "T221",
+      "buksuemail": "2001103475@student.buksu.edu.ph"
+    }
+  ]
+}
